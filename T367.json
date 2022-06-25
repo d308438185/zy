@@ -1,33 +1,5 @@
 {
   "sites": [
-     {
-     "key":"csp_BBB",
-     "name":"B哔哩套餐",
-     "type":3,
-     "api":"Cs_BBB",
-     "searchable": 0,
-     "quickSearch": 0,
-     "filterable": 1
-    },
-    {
-    "key":"csp_nOys", 
-    "name":"1090影视(SP)",
-    "type":3,
-    "api":"csp_nOys", 
-    "searchable":1,
-    "quickSearch":1,
-    "filterable": 1,
-    "ext":""
-    },
-    {
-    "key":"spider_IKan",
-    "name":"爱看(SP)",
-    "type":3,
-    "api":"csp_ikan",
-    "quickSearch":1, 
-    "searchable":1,
-    "filterable":1
-    },
     {
       "key": "360",
       "name": "360",

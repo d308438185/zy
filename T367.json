@@ -1,6 +1,17 @@
 {
   "sites": [
-    {
+     {"key". "csp_BBB","name"."B
+哔哩套餐","type":3,"api":"Cs
+_BBB", "searchable": 0,"qui
+ ckSearch": 0, "filterable": 1)},
+ {"key". "csp_nOys", "name"."
+1090影视(SP)","type":3,"api":"
+ csp_NOys", "searchable": 1,"quick
+ Search": 1,"filterable": 1,"ext".""
+ {"key":. "spider_IKan","name"."
+爱看(SP)","type":3,"api":"csp_ika
+ n","quickSearch": 1, "searchable": 7.
+ "filterable":1),{
       "key": "360",
       "name": "360",
       "type": 3,

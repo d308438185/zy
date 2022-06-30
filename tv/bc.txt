@@ -49,7 +49,6 @@ Formosa Live News,https://ytm2.yuanhsing.cf/FTVLIVE.m3u8
 Formosa TV News,https://ytm2.yuanhsing.cf/FTVCP.m3u8
 
 🐅huya(ljk播放器),#genre#
-RM刘在石李光洙跑男,https://epg.112114.xyz/huya/11336725
 【七龍珠改】超级赛亚人孙捂空,https://epg.112114.xyz/huya/11601966
 【Blue胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
 【海绵宝宝】黄方块的爆笑生活~,https://epg.112114.xyz/huya/11352919
